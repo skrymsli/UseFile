@@ -1,0 +1,5 @@
+UseFile/bin/
+UseFile/obj/
+packages/
+*.suo
+*.user
